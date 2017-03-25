@@ -673,24 +673,12 @@
         "filename": "http://yui.yahooapis.com/2.8.2/build/yuiloader/yuiloader-min.js",
         "result": "[freelib]"
     },
-    "c398b7eab95bfe84816f60311eaf91194f3bfec8": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/aes.js",
-        "result": "[freelib]"
-    },
-    "a7eba31001379f751d1a54b988ccdb500d873ec1": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/enc-base64.js",
-        "result": "[freelib]"
-    },
     "9bdf0dfad487422fd36693d4119b59175f0112ee": {
         "filename": "http://yui.yahooapis.com/2.8.1/build/yuiloader/yuiloader.js",
         "result": "[freelib]"
     },
     "d9f710afddaba467707c0d6e7b187a8beae1e1f2": {
         "filename": "http://yui.yahooapis.com/2.8.2/build/yuiloader/yuiloader.js",
-        "result": "[freelib]"
-    },
-    "5f8d372d7b385588f61dd53c588608f47a3c3b60": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/enc-utf16.js",
         "result": "[freelib]"
     },
     "4dc6c77a03258ee7fbe5e877a1ed97311bc45652": {
@@ -765,14 +753,6 @@
         "filename": "https://ajax.googleapis.com/ajax/libs/mootools/1.2.4/mootools-yui-compressed.js",
         "result": "[freelib]"
     },
-    "3c737636f4789a45b73f5365cd4cfc8c0922f458": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/hmac.js",
-        "result": "[freelib]"
-    },
-    "42a8029d12e24767778fc1c6d978b4696b445524": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/mode-cfb.js",
-        "result": "[freelib]"
-    },
     "14682f01c5c15f8656cb01425487ad675676df8e": {
         "filename": "http://yui.yahooapis.com/3.5.1/build/yui-base/yui-base-min.js",
         "result": "[freelib]"
@@ -837,14 +817,6 @@
         "filename": "http://code.jquery.com/jquery-1.4.3.min.js",
         "result": "[freelib]"
     },
-    "6a7a7d88fa4e7369003de24164f5961852731e0e": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/mode-ctr.js",
-        "result": "[freelib]"
-    },
-    "d65a39fc4b09df061a30172f080019ef9d800ca4": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/mode-ecb.js",
-        "result": "[freelib]"
-    },
     "427300f82762288c5af967dbf642fbec58c201ea": {
         "filename": "http://code.jquery.com/jquery-1.4.4.js",
         "result": "[freelib]"
@@ -889,10 +861,6 @@
         "filename": "https://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js",
         "result": "[freelib]"
     },
-    "b98bb654c88a9b7da659fe8dad95a5c7376bb166": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/md5.js",
-        "result": "[freelib]"
-    },
     "6463e558dd79d51a2e8464806824c7bbc18c77fd": {
         "filename": "http://jqueryjs.googlecode.com/files/jquery-1.2.3.min.js",
         "result": "[freelib]"
@@ -903,14 +871,6 @@
     },
     "333b6d92a99eac873b1de2045c670fbdb61970ab": {
         "filename": "http://yui.yahooapis.com/3.5.1/build/yui-base/yui-base.js",
-        "result": "[freelib]"
-    },
-    "522f0852b91775306ca47138c1d6ceeb87677880": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/mode-ofb.js",
-        "result": "[freelib]"
-    },
-    "4407f7b9602539e80f1569ae734696fd92deeff0": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/pad-ansix923.js",
         "result": "[freelib]"
     },
     "c82ea9768b18696832408b6cc729e2e121def691": {
@@ -929,10 +889,6 @@
         "filename": "https://ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools.js",
         "result": "[freelib]"
     },
-    "a965003ea3313be11a02743f4807411c9eb71f04": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/pad-iso10126.js",
-        "result": "[freelib]"
-    },
     "3bb92e84642c03cf0fe49174d0e1c420d46d2e18": {
         "filename": "http://jqueryjs.googlecode.com/files/jquery-1.2.4.js",
         "result": "[freelib]"
@@ -943,14 +899,6 @@
     },
     "034970f98cb529c779c8f961b2b7c09ecb499240": {
         "filename": "http://code.jquery.com/jquery-1.6.js",
-        "result": "[freelib]"
-    },
-    "341a7a52109c3abfb23d5a5b4f363fd8d6a52f6c": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/pad-iso97971.js",
-        "result": "[freelib]"
-    },
-    "c654cdaa3ca1184d9b18d0c31f8369a04c63f7f5": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/pad-nopadding.js",
         "result": "[freelib]"
     },
     "20860bad9c83c3890be57052f009b9d97848c9ec": {
@@ -981,20 +929,8 @@
         "filename": "http://jqueryjs.googlecode.com/files/jquery-1.2.5.js",
         "result": "[freelib]"
     },
-    "aa7020d6c8d5475ae588640954caa9e4cdd7eca0": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/pad-zeropadding.js",
-        "result": "[freelib]"
-    },
     "1be9c3684054001f53fa7ff6d85ec3cb573a9cd2": {
         "filename": "http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js",
-        "result": "[freelib]"
-    },
-    "e0f3225498158bc63af7bfba636b091ea4ee5fcd": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/pbkdf2.js",
-        "result": "[freelib]"
-    },
-    "c415b533f7edda8b9de417cc0517904f86e9fe1f": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/rabbit.js",
         "result": "[freelib]"
     },
     "c10dbe0c2b23444d0794f3376398702d84f41583": {
@@ -1013,20 +949,8 @@
         "filename": "https://ajax.googleapis.com/ajax/libs/mootools/1.4.1/mootools.js",
         "result": "[freelib]"
     },
-    "b4096385cad3144e81c255aa6e4b7dabb30bc19f": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/rc4.js",
-        "result": "[freelib]"
-    },
-    "037f4fadbc2020ccb4935384b8ae5af62bdd0145": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/sha1.js",
-        "result": "[freelib]"
-    },
     "bc018ec49a5c7757577bb63e5d5f8a99be0e3954": {
         "filename": "https://ajax.googleapis.com/ajax/libs/mootools/1.4.2/mootools.js",
-        "result": "[freelib]"
-    },
-    "aa5c283b9e094eeacdd080b44951406abbc9e58c": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/sha224.js",
         "result": "[freelib]"
     },
     "6dc7644a54d5cc254a1f6d7cb7154128b2b6570a": {
@@ -1037,20 +961,8 @@
         "filename": "https://ajax.googleapis.com/ajax/libs/mootools/1.1.1/mootools.js",
         "result": "[freelib]"
     },
-    "b38f741b43f6ddcce3f1b47274d1683cca9f07a8": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/sha256.js",
-        "result": "[freelib]"
-    },
-    "e29701dd85d792bddbf52d1e1fc3d1ada41b6192": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/sha384.js",
-        "result": "[freelib]"
-    },
     "cc019ac09f68258ee3442fe7cc440adf78a3cef2": {
         "filename": "https://ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools-yui-compressed.js",
-        "result": "[freelib]"
-    },
-    "e88bb2c302b41a4cc5b97604354a48d068e3e1eb": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/sha512.js",
         "result": "[freelib]"
     },
     "fc39ed8ca4a58668124471e509506443de4467f2": {
@@ -1063,10 +975,6 @@
     },
     "86f0df8662b511142dfc4e0ce9c81d805c8d7a7e": {
         "filename": "https://ajax.googleapis.com/ajax/libs/mootools/1.4.0/mootools-yui-compressed.js",
-        "result": "[freelib]"
-    },
-    "e0bfed3ffc741a9f4e59e6004a1dec9c71241a59": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/x64-core.js",
         "result": "[freelib]"
     },
     "fc21f8084ad4040ddbf620ba79acd3998fb3dc7b": {
@@ -1099,10 +1007,6 @@
     },
     "e5335c2a82f26e49b1324edc21e452de040d5cdc": {
         "filename": "https://ajax.googleapis.com/ajax/libs/mootools/1.2.4/mootools.js",
-        "result": "[freelib]"
-    },
-    "ccf015fcd45618c6b116977c96539d93ee10b542": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/tripledes.js",
         "result": "[freelib]"
     },
     "3d9fc65389ce7de16f87909039aa2e728c693b3d": {
@@ -1237,64 +1141,44 @@
         "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.1.1/dojo/dojo.xd.js",
         "result": "[freelib]"
     },
-    "3d96f61e48510cbe595081ef8b2d5c8479f95d3e": {
-        "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.7.1/dojo/dojo.xd.js.uncompressed.js",
+    "3fa7d530ebfe4709ee934e0b3690bb19e3f0fe12": {
+        "filename": "https://download.dojotoolkit.org/release-1.7.0/dojo.js.uncompressed.js",
         "result": "[freelib]"
     },
-    "1e4cb0dcb97df9a15433477f9f8a666914eedc3c": {
-        "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.7.0/dojo/dojo.xd.js.uncompressed.js",
+		"e2dc7a9185cb76b9f4a805e1fd7417627dce425d": {
+        "filename": "https://download.dojotoolkit.org/release-1.7.0/dojo.js",
         "result": "[freelib]"
     },
-    "47732fb5e03d251aff1a7c0b550a3af74c7ceea5": {
-        "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.7.3/dojo/dojo.xd.js.uncompressed.js",
+     "7882eb2d245fb246d25cb5b0fde371cfbe157104": {
+        "filename": "https://download.dojotoolkit.org/release-1.7.1/dojo.js.uncompressed.js",
         "result": "[freelib]"
     },
-    "85399dd9527026afc66a6fb43ad5c0d4ea97f83e": {
-        "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.7.2/dojo/dojo.xd.js.uncompressed.js",
+    "5fb5fb0235a7ae48333d954b8e98df729c963aa8": {
+        "filename": "https://download.dojotoolkit.org/release-1.7.1/dojo.js",
         "result": "[freelib]"
     },
-    "147eab514dfe1d88506a5e158b782cb5c504c056": {
-        "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.8.0/dojo/dojo.xd.js.uncompressed.js",
+    "f25a8387a8bb77db4dd32ec3271393f2ed62b330": {
+        "filename": "https://download.dojotoolkit.org/release-1.7.2/dojo.js.uncompressed.js",
         "result": "[freelib]"
     },
-    "229e4025f71b0b94d98505f56c5cfd7cd41d06aa": {
-        "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.7.3/dojo/dojo.xd.js",
+    "36856361c0a40bdfc111adaef5c3139511787d46": {
+        "filename": "https://download.dojotoolkit.org/release-1.7.2/dojo.js",
         "result": "[freelib]"
     },
-    "135ade1e60da3e3b79fd73c3a6a005a250e2a7f7": {
-        "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.8.0/dojo/dojo.xd.js",
+    "ca74922c34b34a323dd89e00d530d389974317b0": {
+        "filename": "https://download.dojotoolkit.org/release-1.7.3/dojo.js.uncompressed.js",
         "result": "[freelib]"
     },
-    "135188b624daae8f4b015b0b8b75875a6132aa3d": {
-        "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.7.1/dojo/dojo.xd.js",
+    "87e4a915e1bfda27d9ec18236ddd9dc422060e51": {
+        "filename": "https://download.dojotoolkit.org/release-1.7.3/dojo.js",
         "result": "[freelib]"
     },
-    "fac80a6188865418344d4b6c5d4955ee7e7362c2": {
-        "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.7.0/dojo/dojo.xd.js",
+    "395fbb0f9bd3d736548455c6ae9d04823cbe7b2b": {
+        "filename": "https://download.dojotoolkit.org/release-1.8.0/dojo.js.uncompressed.js",
         "result": "[freelib]"
     },
-    "311d8f38b12a09f16f5a19e1dfb6575b5ce0f83c": {
-        "filename": "https://ajax.googleapis.com/ajax/libs/dojo/1.7.2/dojo/dojo.xd.js",
-        "result": "[freelib]"
-    },
-    "ca2868985811d45cfbad118a297869707572e0bb": {
-        "filename": "https://raw.github.com/voldsoftware/toolbarbutton-jplib/stable/lib/toolbarbutton.js",
-        "result": "[freelib]"
-    },
-    "32d542564913a016f1cea340ba8ac164c160004d": {
-        "filename": "http://yui.yahooapis.com/3.3.0/build/yui-base/yui-base.js",
-        "result": "[freelib]"
-    },
-    "012cc186912c473552a341b2eaffb71240688ccd": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/cipher-core.js",
-        "result": "[freelib]"
-    },
-    "d1c9d4d91c1c3c76f601778cb5e0489e0f80a10d": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/evpkdf.js",
-        "result": "[freelib]"
-    },
-    "794503310ed31a11f233e1acdddc10f2ce91748e": {
-        "filename": "http://crypto-js.googlecode.com/svn/tags/3.0.2/src/core.js",
+    "4d13d6616235c683ce587724d9afda978033449f": {
+        "filename": "https://download.dojotoolkit.org/release-1.8.0/dojo.js",
         "result": "[freelib]"
     },
     "5717e22c3b2c7caf870fc0772a64344962b59ee6": {
@@ -1407,10 +1291,6 @@
     },
     "9e389ede8ed7f782c5ecf2f87c3afa3b1e309bff": {
         "filename": "https://raw.github.com/documentcloud/underscore/1.1.3/underscore-min.js",
-        "result": "[freelib]"
-    },
-    "703d6a61f31ddb45252c55813556a92e8cc2ee22": {
-        "filename": "https://raw.github.com/documentcloud/underscore/1.1.6/underscore-min.js",
         "result": "[freelib]"
     },
     "7d6e352b0d26655ba851863561b5d912cc24caa7": {
